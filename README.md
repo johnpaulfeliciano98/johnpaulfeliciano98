@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a dedicated professional with a background in computer science and public health, currently leveraging my skills in data analysis and project management. With experience in both the healthcare and technology sectors, I thrive on creating efficient, impactful solutions. My diverse career has equipped me with a unique perspective and a commitment to continuous learning and improvement. Outside of work, I enjoy snowboarding and spending time outdoors.
+ADD LATER
 
 
 ## 🌐 Socials:
