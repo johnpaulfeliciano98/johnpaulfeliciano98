@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aspiring Software Engineer with a 7-year healthcare background, transitioning to coding and problem-solving. Currently enhancing technical skills through a computer science degree and hands-on projects, with experience in developing Python applications for data extraction, fraud detection, and process automation.
+
 
 
 ## 🌐 Socials:
