@@ -1,7 +1,9 @@
 # 💫 About Me:
-👋 Hi, I'm John Paul Feliciano. I build data-driven solutions to automate workflows, detect fraud, and improve decision-making.  
-🔍 I specialize in Python, SQL, and machine learning, with experience in data analytics, predictive modeling, and automation.  
-📊 Most of my work involves healthcare and EMS systems, but I’m always looking for new challenges in software engineering.  
+- 🎓 Recent Computer Science graduate with experience in data analysis and software development.
+- 📊 Passionate about data-driven decision-making, predictive modeling, and system optimization.
+- 🚀 Currently applying for software engineering roles and working on personal projects.
+- 🏎️ Enthusiast in high-performance cars and motorsports.
+- 📍 Based in California.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/johnp-feliciano)  
