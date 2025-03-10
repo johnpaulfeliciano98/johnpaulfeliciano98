@@ -19,13 +19,6 @@
 - **Web & Backend**: Node.js, Express, React, Figma  
 - **Other**: Git, Visio, LMS  
 
-# 🚀 Projects:
-## 📈 911 Call Forecasting  
-**GitHub**: [Repository](https://github.com/johnpaulfeliciano98/911-call-forecasting/tree/main) 
-- Built an XGBoost model to predict EMS call volumes based on historical data  
-- Engineered cyclical time features to capture hourly, daily, and seasonal trends  
-- Achieved an MAE of 0.04 and RMSE of 0.14, improving resource allocation  
-
 ## 🔍 Invoice Fraud Detection  
 **GitHub**: [Repository](https://github.com/johnpaulfeliciano98/Risk-Assignment)  
 - Automated risk scoring for invoices using NLP, TF-IDF, and DBSCAN clustering  
