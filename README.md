@@ -19,7 +19,8 @@
 
 I'm a graduate of Oregon State University with a Bachelor's degree in Computer Science. I have experience as a Software Engineer Intern at IEHP in Rancho Cucamonga, CA, where I contributed to projects using Python, data analysis, and reporting. I am passionate about building efficient and scalable software solutions.
 
-📫 Email: [johnpaulfeliciano98@gmail.com](mailto:johnpaulfeliciano98@gmail.com)
+- Email: [johnpaulfeliciano98@gmail.com](mailto:johnpaulfeliciano98@gmail.com)
+- Portfolio Website: https://johnpaulfeliciano98.github.io/portfolio-website/
 
 ---
 
